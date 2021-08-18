@@ -57,7 +57,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="turnLightButtonPassed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wZD-RL-6Ff"/>
+                                    <action selector="turnLightButtonPassed" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZHJ-mH-3fL"/>
                                 </connections>
                             </button>
                         </subviews>
