@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     private var numberOfLight = 0
     
     override func viewWillLayoutSubviews() {
-        lights.forEach {$0.layer.cornerRadius = $0.frame.size.width / 2}
+        lights.forEach {$0.layer.cornerRadius = $0.frame.width / 2}
     }
     
     override func viewDidLoad() {
